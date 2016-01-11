@@ -2,7 +2,7 @@
 *italic*
 
 ```
-#some code
+#some awesome code
 ```
 
 
